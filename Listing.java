@@ -32,3 +32,5 @@ public class Listing {
   public Game getGame(){
     return this.game;
   }
+
+}
