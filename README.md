@@ -6,7 +6,7 @@
 🗂️ Projects:
 - Polls App [Repo: codespaces-django]
 - Student Staff Conduct Tracker [Repo: Student-Staff-Conduct-Tracker]
-- To-do App [Repo: projectflaskmvc]
+- To-do App [Repo: todo-app]
 - HTML/CSS Project Portfolio [Repo: web-design]
 
 <!---
