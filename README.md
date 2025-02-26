@@ -1,8 +1,13 @@
 - 👋 Hi, I’m @nickperi
-- 🗂️ Please refer to the Polls App, Student Staff Conduct Tracker and To-do App Repos
 - 👀 I’m interested in system design / development
 - 🌱 I’m currently learning the Django framework
 - 💞️ I’m looking to collaborate on interesting projects
+
+🗂️ Projects:
+- Polls App [Repo: codespaces-django]
+- Student Staff Conduct Tracker [Repo: Student-Staff-Conduct-Tracker]
+- To-do App [Repo: projectflaskmvc]
+- HTML/CSS Project Portfolio [Repo: web-design]
 
 <!---
 nickperi/nickperi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
