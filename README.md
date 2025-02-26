@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @nickperi
-- 👀 I’m interested in system design / development
+- 👀 I’m interested in system design and development
 - 🌱 I’m currently learning the Django framework
-- 💞️ I’m looking to collaborate on interesting projects
+- 💞️ I’m looking forward to collaborating on interesting projects
 
 🗂️ Projects:
 - Polls App [Repo: codespaces-django]
